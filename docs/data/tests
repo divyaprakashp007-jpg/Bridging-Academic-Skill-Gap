@@ -1,0 +1,36 @@
+
+# Test Cases — Bridging the Academic Skill Gap
+
+## Purpose
+Verify that the application calculates skill gaps correctly and displays appropriate results.
+
+## Test Case 1: Skill gap calculation
+- Input: Current level = 2, required level = 4
+- Expected result: Skill gap = 2
+
+## Test Case 2: Skill target achieved
+- Input: Current level = 4, required level = 4
+- Expected result: Skill gap = 0
+
+## Test Case 3: Large skill gap
+- Input: Current level = 1, required level = 5
+- Expected result: Skill gap = 4
+
+## Test Case 4: Current level exceeds target
+- Input: Current level = 5, required level = 3
+- Expected result: Skill gap = 0
+
+## Test Case 5: Career selection
+- Input: Select Software Developer
+- Expected result: Python, Problem Solving, and Communication sliders appear.
+
+## Test Case 6: Report generation
+- Input: Select a career, adjust the skill sliders, and click Analyze My Skill Gaps.
+- Expected result: Individual skill gaps, recommendations, and the total gap are displayed.
+
+## Test Case 7: Skill-level validation
+- Input: A skill level outside the allowed range of 1 to 5.
+- Expected result: The application rejects the invalid value.
+
+## Test Results
+Run each test against the application and record the actual result before marking it as passed.
