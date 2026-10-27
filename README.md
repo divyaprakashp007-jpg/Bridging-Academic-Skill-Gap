@@ -62,11 +62,11 @@ The folders and files listed above will be added as the project documentation is
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/bridging-academic-skill-gap.git
+git clone https://github.com/RTC DOMINATORS/bridging-academic-skill-gap.git
 cd bridging-academic-skill-gap
 ```
 
-Replace `YOUR-USERNAME` with your actual GitHub username.
+Replace `RTC DOMINATORS` with your actual GitHub username.
 
 ### Install dependencies
 
