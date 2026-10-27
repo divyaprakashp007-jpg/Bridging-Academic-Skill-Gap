@@ -1,0 +1,11 @@
+
+student_id,skill,student_level,required_level
+S001,Python,2,4
+S001,Problem Solving,2,4
+S001,Communication,2,3
+S002,Python,3,3
+S002,Data Analysis,2,5
+S002,Communication,3,4
+S003,Python,1,5
+S003,Mathematics,2,5
+S003,Machine Learning,1,4
