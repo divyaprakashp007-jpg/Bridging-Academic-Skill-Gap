@@ -111,3 +111,6 @@ The prototype should be tested with different career choices and skill levels. S
 ## 12. License
 
 This project is released under the MIT License. See the `LICENSE` file for details.
+
+
+https://bridging-academic-skill-gap-hmjs4ewqkjmhygevipqtne.streamlit.app/
